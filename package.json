@@ -1,0 +1,24 @@
+{
+  "name": "ncli",
+  "version": "1.0.2",
+  "description": "",
+  "preferGlobal": true,
+  "bin": {
+    "ncli": "index.js"
+  },
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ginstall": "npm install -g"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usuket/ncli.git"
+  },
+  "author": "usuket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usuket/ncli/issues"
+  },
+  "homepage": "https://github.com/usuket/ncli#readme"
+}
